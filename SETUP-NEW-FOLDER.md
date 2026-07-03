@@ -30,7 +30,8 @@ backend/
    ```
 4. Install dependencies:
    ```
-   cd backend
+   cd backend   pip install -r requirements.txt
+
    pip install -r requirements.txt
    ```
 5. Run it:
